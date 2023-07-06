@@ -31,7 +31,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.name">
     <configuration name="Javademo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.Javademo" />
       <module name="Mycode_one" />
@@ -45,8 +45,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.test.name" />
+      <module name="Mycode_one" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.name" />
         <item itemvalue="Application.Javademo" />
       </list>
     </recent_temporary>
@@ -69,6 +83,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom" timestamp="1688648183672">
+      <screen x="-2880" y="-217" width="1440" height="870" />
+    </state>
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom/-2880.-217.1440.870/0.0.2048.1104@-2880.-217.1440.870" timestamp="1688648183672" />
+    <state width="1398" height="220" key="GridCell.Tab.0.center" timestamp="1688648183671">
+      <screen x="-2880" y="-217" width="1440" height="870" />
+    </state>
+    <state width="1398" height="220" key="GridCell.Tab.0.center/-2880.-217.1440.870/0.0.2048.1104@-2880.-217.1440.870" timestamp="1688648183671" />
+    <state width="1398" height="220" key="GridCell.Tab.0.left" timestamp="1688648183670">
+      <screen x="-2880" y="-217" width="1440" height="870" />
+    </state>
+    <state width="1398" height="220" key="GridCell.Tab.0.left/-2880.-217.1440.870/0.0.2048.1104@-2880.-217.1440.870" timestamp="1688648183670" />
+    <state width="1398" height="220" key="GridCell.Tab.0.right" timestamp="1688648183672">
+      <screen x="-2880" y="-217" width="1440" height="870" />
+    </state>
+    <state width="1398" height="220" key="GridCell.Tab.0.right/-2880.-217.1440.870/0.0.2048.1104@-2880.-217.1440.870" timestamp="1688648183672" />
     <state x="-2718" y="-196" key="SettingsEditor" timestamp="1688631373897">
       <screen x="-2880" y="-217" width="1440" height="870" />
     </state>
