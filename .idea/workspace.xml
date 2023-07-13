@@ -29,7 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RunManager" selected="Application.name">
     <configuration name="Javademo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -76,6 +76,12 @@
       <option name="presentableId" value="Default" />
       <updated>1688623356329</updated>
       <workItem from="1688623360386" duration="3987000" />
+      <workItem from="1689161062520" duration="647000" />
+      <workItem from="1689161731292" duration="2546000" />
+      <workItem from="1689165395543" duration="607000" />
+      <workItem from="1689166812509" duration="14000" />
+      <workItem from="1689240949299" duration="644000" />
+      <workItem from="1689248486006" duration="1205000" />
     </task>
     <servers />
   </component>
@@ -83,6 +89,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1057" y="308" key="FileChooserDialogImpl" timestamp="1689163861131">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="1057" y="308" key="FileChooserDialogImpl/-2880.-217.1440.870/0.0.2048.1104@0.0.2048.1104" timestamp="1689163861131" />
     <state width="1398" height="220" key="GridCell.Tab.0.bottom" timestamp="1688648183672">
       <screen x="-2880" y="-217" width="1440" height="870" />
     </state>
@@ -99,13 +109,18 @@
       <screen x="-2880" y="-217" width="1440" height="870" />
     </state>
     <state width="1398" height="220" key="GridCell.Tab.0.right/-2880.-217.1440.870/0.0.2048.1104@-2880.-217.1440.870" timestamp="1688648183672" />
-    <state x="-2718" y="-196" key="SettingsEditor" timestamp="1688631373897">
-      <screen x="-2880" y="-217" width="1440" height="870" />
-    </state>
-    <state x="-2718" y="-196" key="SettingsEditor/-2880.-217.1440.870/0.0.2048.1104@-2880.-217.1440.870" timestamp="1688631373897" />
-    <state x="723" y="376" key="com.intellij.ide.util.TipDialog" timestamp="1688623369670">
+    <state x="701" y="260" key="SettingsEditor" timestamp="1689161856139">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state x="723" y="376" key="com.intellij.ide.util.TipDialog/-2880.-217.1440.870/0.0.2048.1104@0.0.2048.1104" timestamp="1688623369670" />
+    <state x="-2718" y="-196" key="SettingsEditor/-2880.-217.1440.870/0.0.2048.1104@-2880.-217.1440.870" timestamp="1688631373897" />
+    <state x="701" y="260" key="SettingsEditor/-2880.-217.1440.870/0.0.2048.1104@0.0.2048.1104" timestamp="1689161856139" />
+    <state x="723" y="376" key="com.intellij.ide.util.TipDialog" timestamp="1689166815449">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="723" y="376" key="com.intellij.ide.util.TipDialog/-2880.-217.1440.870/0.0.2048.1104@0.0.2048.1104" timestamp="1689166815449" />
+    <state x="686" y="220" key="new project wizard" timestamp="1689163880909">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="686" y="220" key="new project wizard/-2880.-217.1440.870/0.0.2048.1104@0.0.2048.1104" timestamp="1689163880909" />
   </component>
 </project>
